@@ -1,0 +1,28 @@
+# For scrapping
+playwright
+bs4
+
+# For API
+python-dotenv
+fastapi
+mangum
+uvicorn
+awslambdaric
+
+# For database
+sqlalchemy
+psycopg2-binary
+python-multipart
+python-jose
+
+#hashing
+passlib[bcrypt]
+
+# For testing
+pytest
+httpx
+pytest-cov
+
+black
+ffmpeg-python
+
